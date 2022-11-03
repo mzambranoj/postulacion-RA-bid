@@ -4,7 +4,7 @@
 # Author: Miguel Zambrano
 # ________________________________
 
-library(dplyr) # Only package necessary
+library(dplyr) # Only package required
 
 # Choose you working directory
 setwd("C:/Users/jgzj0/Downloads/Miguel/Medicare_Advantage")
